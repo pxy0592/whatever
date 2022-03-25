@@ -1,2 +1,4 @@
 safe: true
 theme: jekyll-theme-minimal
+collections:
+  authors:

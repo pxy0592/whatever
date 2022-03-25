@@ -1,0 +1,6 @@
+- name: Home
+  link: whatever/index.html
+- name: About
+  link: whatever/about.html
+- name: Blog
+  link: whatever/blog.html
