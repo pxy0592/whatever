@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/pxy0592/whatever/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
